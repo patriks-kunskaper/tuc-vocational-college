@@ -52,10 +52,10 @@ Two-VM architecture demonstrating network segmentation, service integration, and
 
 **Skills**: Multi-tier architecture, network segmentation, Linux system administration, database security, firewall configuration, intrusion prevention
 
-### 2. 
+### 2. ZeroTier VPN Network Environment (Group Project)
+Multi-tier secure network architecture built with Debian 13, ZeroTier VPN, and defense-in-depth security controls. Implemented three-server topology (firewall, WordPress/database, backup) with UFW firewall configuration, NGINX reverse proxy with rate limiting, automated backup system using bash scripting and cron, and SSH key-based authentication. Group collaboration project demonstrating network segmentation, NAT routing, intrusion prevention (Fail2ban), and practical system automation.
 
-- Group project work
-- VPN and secure network access implementation
+**Skills**: VPN configuration, network segmentation, firewall administration, reverse proxy setup, bash scripting, SSH security, automated backup strategies, team collaboration
 
 ## Study Questions Addressed
 
