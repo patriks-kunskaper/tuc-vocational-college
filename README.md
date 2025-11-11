@@ -33,7 +33,7 @@ This portfolio supports my career transition from strategic planning and stakeho
 ## Contact
 Patrik Khosravi
 
-**LinkedIn**: https://www.linkedin.com/in/patrik-khosravi/  
+**LinkedIn**: https://www.linkedin.com/in/patrik-k/  
 **Location**: Stockholm, Sweden
 
 ---
