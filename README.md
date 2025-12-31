@@ -31,7 +31,7 @@ Each project is organized in its own subdirectory with:
 This portfolio supports my career transition from strategic planning and stakeholder management into IT security, with focus on **bridge roles** combining governance expertise with technical credibility—particularly security architecture, privacy engineering, and security program management positions.
 
 ## Contact
-Patrik Khosravi
+Patrik
 
 **LinkedIn**: https://www.linkedin.com/in/patrik-k/  
 **Location**: Stockholm, Sweden
