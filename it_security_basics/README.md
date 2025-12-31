@@ -23,10 +23,10 @@ Foundation course in IT security covering risk analysis, security principles, cr
 
 ## Assignments
 
-### [Risk and Vulnerability Analysis](./risk-vulnerability-analysis/)
-Systematic risk assessment and vulnerability analysis using ISO-based methodology.
+### [Risk and Vulnerability Analysis - Stockholm Vatten och Avfall](./risk_and_vulnerability_analysis_swe/stockholm_vatten_och_avfall/)
+Systematic risk assessment and vulnerability analysis for Stockholm's water and waste management infrastructure using ISO-based methodology.
 
-**Key competencies:** Risk analysis, vulnerability assessment, security controls, ISO frameworks, threat modeling
+**Key competencies:** Risk analysis, vulnerability assessment, security controls, ISO frameworks, threat modeling, critical infrastructure security
 
 ## Learning Outcomes
 
