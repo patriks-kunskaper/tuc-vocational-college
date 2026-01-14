@@ -19,13 +19,13 @@ THE SOLUTION: A THREE-QUESTION DECISION TREE
 
 Question 1: Is this security-sensitive activity?
 YES → Säkerhetsskyddslagen takes priority, report to SÄPO only
-NO → Continue to Question 2
+NO → Continue to Question 2.
 Question 2: Covered by NIS2 critical sectors?
 YES → Cybersäkerhetslagen applies, report to MCF
-NO → Continue to Question 3
+NO → Continue to Question 3.
 Question 3: Personal data affected?
 YES → Dataskyddslagen applies, report to IMY within 72 hours
-NO → No reporting obligation under these frameworks
+NO → No reporting obligation under these frameworks.
 
 JURISDICTIONAL HIERARCHY
 
