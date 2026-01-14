@@ -194,5 +194,7 @@ This is an academic analysis for educational purposes. It does not constitute le
 AUTHOR
 
 Patrik
+
+
 KEYWORDS
 Cybersecurity Law, GDPR, NIS2, Swedish Cybersecurity, Incident Reporting, Legal Compliance, GRC, Information Security, Data Protection, National Security
