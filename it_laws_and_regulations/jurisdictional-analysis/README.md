@@ -30,14 +30,14 @@ JURISDICTIONAL HIERARCHY
 
 1. Säkerhetsskyddslagen has priority when activities involve national security, overriding both Cybersäkerhetslagen (1 kap. 12 §) and GDPR reporting requirements Art. 33-34 (Dataskyddslagen 1 kap. 4 §) - resulting in reporting only to SÄPO.
 
-2. For activities without security-sensitive connections, Cybersäkerhetslagen and Dataskyddslagen can apply in parallel, requiring reporting to both sector-specific supervisory authority and IMY for personal data incidents.
+2. For activities without security-sensitive connections, Cybersäkerhetslagen and Dataskyddslagen can apply in parallel, requiring reporting to both MCF and IMY for personal data incidents.
 
 3. The laws complement each other by protecting different interests: Säkerhetsskyddslagen protects national security, Cybersäkerhetslagen protects critical infrastructure, and Dataskyddslagen protects individual privacy rights.
 
 HYBRID ORGANIZATIONS CHALLENGE
 Organizations conducting both security-sensitive and civil activities must separate incident reporting by activity type:
 - Security-sensitive portions: Report only to SÄPO
-- Civil portions: Follow Cybersäkerhetslagen and potentially Dataskyddslagen with reporting to respective supervisory authority and IMY
+- Civil portions: Follow Cybersäkerhetslagen and potentially Dataskyddslagen with reporting to MCF and IMY
 
 SCOPE OF APPLICATION
 
@@ -86,8 +86,8 @@ Säkerhetsskyddslagen
 
 AUTHORITY RESPONSIBILITIES
 - IMY: Personal data protection
-- Sector-specific supervisory authorities: Critical infrastructure cybersecurity
-- SÄPO (Säkerhetspolisen): National security
+- MCF: Critical infrastructure cybersecurity
+- SÄPO: National security
 
 CRITICAL CLARIFICATION
 When multiple laws apply, each has its own independent timeline starting from the moment the organization becomes aware of the incident. The 72-hour GDPR deadline and the 24/72/30-day NIS2 deadlines run concurrently, not sequentially.
