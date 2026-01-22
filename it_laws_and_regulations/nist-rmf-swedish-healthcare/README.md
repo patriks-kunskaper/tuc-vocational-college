@@ -81,6 +81,7 @@ The implementation follows NIST RMF's 7-step methodology:
 **Risk Formula**: `RISK = LIKELIHOOD × CONSEQUENCE`
 
 **Consequence Levels** (MCF Methodology):
+- **Nivå 4 (Synnerligen allvarlig)**: Impact on national security
 - **Nivå 3 (Allvarlig)**: Death, life-threatening situations, critical operational impact
 - **Nivå 2 (Betydande)**: Serious harm, significant operational disruption
 - **Nivå 1 (Måttlig)**: Noticeable harm, moderate consequences
