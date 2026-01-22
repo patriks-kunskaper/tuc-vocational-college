@@ -7,7 +7,7 @@ Course module covering Swedish and EU cybersecurity law, compliance frameworks, 
 
 ## 📂 Assignments
 
-### 1. [Jurisdictional Analysis - Swedish Cybersecurity Laws](./jurisdictional-analysis-swedish-cybersecurity/)
+### 1. [Jurisdictional Analysis - Swedish Cybersecurity Laws](https://github.com/patriks-kunskaper/tuc-vocational-college/tree/main/it_laws_and_regulations/jurisdictional-analysis)
 Comparative analysis of three parallel Swedish cybersecurity laws (Dataskyddslagen, Cybersäkerhetslagen, Säkerhetsskyddslagen) with decision framework for incident reporting.
 
 **Key competencies**: Legal analysis, jurisdictional mapping, compliance frameworks, GRC
