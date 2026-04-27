@@ -50,4 +50,4 @@ Lynis/OpenSCAP scores measure different things.
 
 ## Files
 
-- `[wordpress-hardening-guide.pdf](https://github.com/patriks-kunskaper/tuc-vocational-college/blob/main/linux-wordpress-hardening/Linux-wordpress-hardening.pdf)` — Full assignment submission in English
+- `[wordpress-hardening-guide.pdf(https://github.com/patriks-kunskaper/tuc-vocational-college/blob/main/linux-wordpress-hardening/Linux-wordpress-hardening.pdf)` — Full assignment submission in English
