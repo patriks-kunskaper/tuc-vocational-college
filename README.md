@@ -20,7 +20,6 @@ Each project is organized in its own subdirectory with:
 - **Security Architecture & Baseline Development**: System hardening, security configuration standards
 - **GRC (Governance, Risk, Compliance)**: Risk assessments, compliance frameworks (GDPR, NIS2, ISO 27001)
 - **Network & Infrastructure Security**: Firewall configuration, network segmentation, secure system administration
-- **Privacy Engineering**: Technical implementation of GDPR requirements, privacy by design
 - **Security Automation**: Python, bash, and PowerShell scripting for security tasks
 - **IT & Data Law**: Swedish and EU regulatory compliance (GDPR, NIS2 Directive)
 
