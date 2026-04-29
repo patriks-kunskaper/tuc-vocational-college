@@ -5,9 +5,8 @@
 
 ## Overview
 
-A production-ready WordPress server built and hardened from baseline, using the STRIDE 
-threat model mapped to CIS Ubuntu 24.04 Benchmark controls. Measurements taken at 
-baseline and post-hardening using Lynis, a custom bash script, and OpenSCAP.
+A WordPress server built and hardened from baseline as a 36-hour student assignment, using the STRIDE threat model mapped to CIS Ubuntu 24.04 Benchmark controls. The scope covers OS-level and network hardening. Application-layer hardening of Apache, MariaDB, and PHP was outside the assignment scope. Measurements taken at baseline and post-hardening using Lynis, a custom bash script, and OpenSCAP.
+
 
 ## Hardening Approach
 
