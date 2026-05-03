@@ -8,6 +8,8 @@
 
 A technical deep dive into how TLS 1.3 establishes a secure connection — from TCP handshake to encrypted traffic — with a focus on the ECDHE key exchange mechanism and symmetric key derivation.
 
+The assignment asked for an explanation of classical Diffie-Hellman. Classical DH is not what runs in production: TLS 1.3 replaced it with ECDHE in 2018, and understanding the protocol as it actually operates meant covering the full handshake. This document is the result of following that thread.
+
 Written as a course assignment during the Network Security module of a professional cybersecurity program in Sweden.
 
 ---
