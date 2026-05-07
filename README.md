@@ -17,11 +17,12 @@ Each project is organized in its own subdirectory with:
 - Supporting documentation where relevant
 
 ## Key Competencies Demonstrated
-- **Security Architecture & Baseline Development**: System hardening, security configuration standards
+- **Security Architecture & Baseline Development**: System hardening & security configuration standards in Windows, Linux and Mac environments
 - **GRC (Governance, Risk, Compliance)**: Risk assessments, compliance frameworks (GDPR, NIS2, ISO 27001)
 - **Network & Infrastructure Security**: Firewall configuration, network segmentation, secure system administration
 - **Security Automation**: Python, bash, and PowerShell scripting for security tasks
 - **IT & Data Law**: Swedish and EU regulatory compliance (GDPR, NIS2 Directive)
+- **Ethical Hacking**: Various steps within ethical hacking and pentesting.
 
 ## Projects
 *Projects will be added progressively throughout the program.*
